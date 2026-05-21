@@ -1,6 +1,6 @@
 # Histogram Equalization Using OpenCV (Grayscale & Color Images)
 
-##Name : Kishore M
+## Name : Kishore M
 ## Reg No: 2305002012
 
 ---
