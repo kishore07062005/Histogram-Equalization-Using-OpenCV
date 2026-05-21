@@ -188,8 +188,6 @@ plt.show()
 - Histogram of Equalized Image
 <img width="593" height="406" alt="image" src="https://github.com/user-attachments/assets/6935317c-529e-41c9-9ff2-c92029864f86" />
 
-
-
 ## Result
 
 Thus, histogram equalization is successfully performed on both grayscale and color images using OpenCV. The contrast and brightness of the images are significantly improved, enhancing visual quality and feature visibility.
