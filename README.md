@@ -1,8 +1,4 @@
 # Histogram Equalization Using OpenCV (Grayscale & Color Images)
-
-## Name : Kishore M
-## Reg No: 2305002012
-
 ---
 
 ## Aim
@@ -73,8 +69,8 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ## Program
 
 ### Developed By:
-**Name:** KAVYA T 
-**Register No:** 2305003004
+**Name:** Kishore M
+**Register No:** 2305002012
   ### Ex. No. 02
 
 #### 1. import libraries.
