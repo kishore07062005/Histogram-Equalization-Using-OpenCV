@@ -70,6 +70,7 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 
 ### Developed By:
 **Name:** Kishore M
+
 **Register No:** 2305002012
   ### Ex. No. 02
 
