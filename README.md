@@ -180,7 +180,6 @@ plt.show()
 
 - Display Equalized Image
 <img width="506" height="363" alt="image" src="https://github.com/user-attachments/assets/2185f423-6d7e-4daf-b52b-db97119c6fbc" />
-
 - Histogram of Equalized Image
 <img width="593" height="406" alt="image" src="https://github.com/user-attachments/assets/6935317c-529e-41c9-9ff2-c92029864f86" />
 
